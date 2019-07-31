@@ -1,0 +1,38 @@
+.title-link {
+    color: #ffffff;
+    text-decoration: underline;
+    text-decoration-color: #79ED85;
+}
+
+.name-author {
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: normal;
+    margin-top: 80px;
+}
+
+.lastname-author {
+    font-weight: 200;
+    color: white;
+}
+
+.blank {
+    font-weight: normal;
+    color: #79ED85;
+}
+
+.job-author {
+    color: #79ED85;
+    font-weight: 400;
+}
+
+.detail-author {
+    font-size: 28px;
+    margin-top: 10px;
+    color: #ffffff;
+    font-weight: 200;
+}
+
+.tools-author {
+    color: #74EEFF;
+}

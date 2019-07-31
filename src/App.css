@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.home-activity {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+.col-nav-bar {
+  background-color: #2A2948;
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+
+.col-main-view {
+  background-color: #3F3E5E;
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+
+.nav-link .profile-pic {
+  border-radius: 300px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.nav-list {
+  margin-top: 30px;
+  margin-left: 10%;
+}
+
+.nav-list li {
+  background-color: #2A2948 !important;
+  border: 0px;
+}
+
+.nav-list li a{
+  color: #ffffff;
+
+}
+
+a {
+  font-size: 23px;
+  font-weight: 300;
+}
+
+.nav-list li .main-nav-active {
+  color: #79ED85;
+}
+
+.nav-list a:hover {
+  color: #79ED85 !important;
+  text-decoration: none !important;
+}
+
+.nav-list li:first-child {
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+}
+
+.nav-list li:last-child {
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
