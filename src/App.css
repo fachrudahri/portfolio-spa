@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+div {
+  color: #ffffff;
+}
 
 .home-activity {
   margin-left: 0px !important;
@@ -8,13 +10,13 @@
 .col-nav-bar {
   background-color: #2A2948;
   padding-top: 70px;
-  padding-bottom: 50px;
+  padding-bottom: 80px;
 }
 
 .col-main-view {
   background-color: #3F3E5E;
   padding-top: 80px;
-  padding-bottom: 50px;
+  padding-bottom: 80px;
 }
 
 .nav-link .profile-pic {

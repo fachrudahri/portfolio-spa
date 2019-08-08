@@ -1,3 +1,7 @@
+div {
+    color: #ffffff
+}
+
 .title-link {
     color: #ffffff;
     text-decoration: underline;
@@ -13,7 +17,7 @@
 
 .lastname-author {
     font-weight: 200;
-    color: white;
+    color: #ffffff;
 }
 
 .blank {
@@ -35,4 +39,50 @@
 
 .tools-author {
     color: #74EEFF;
+}
+
+.row-1 {
+    margin-top: 80px;
+    background-color: #2A2948;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.row-2 {
+    margin-top: 35px;
+    background-color: #2A2948;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.title-job {
+    color: #79ED85;
+    font-size: 25px;
+}
+
+.text-job {
+    font-weight: 300;
+    text-align: justify
+}
+
+.card-view {
+    background-color: #2A2948 !important
+}
+
+.card-title {
+    color: #79ED85;
+    text-align: center;
+    margin-bottom: .2rem !important;
+}
+
+.card-tab {
+    padding: 20px !important;
+}
+
+.row-tab {
+    margin-top: 60px;
+}
+
+.row-tab .col-md-4 {
+    padding-top: 20px;
 }
