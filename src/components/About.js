@@ -6,7 +6,7 @@ class About extends Component {
   render() {
     return (
       <div className='parent-body'>
-        <h2 className='title-link'>About's</h2>
+        <h2 className='title-link'>About</h2>
           <h1 className='name-author'>
             Fachru <span className='lastname-author'>Dahri</span><span className='blank'>.</span>
           </h1>
