@@ -86,3 +86,40 @@ div {
 .row-tab .col-md-4 {
     padding-top: 20px;
 }
+
+.row-tab {
+    margin-top: 80px;
+}
+
+.about-you {
+    font-weight: 300;
+    margin-bottom: 5px;
+}
+
+.form-control {
+    background-color: #818191 !important;
+    border: 1px solid #818191 !important;
+    color: #fff !important;
+}
+
+
+::placeholder {
+    color: #fff !important;
+    opacity: none;
+}
+
+.btn-secondary {
+    background-color: #79ED85 !important;
+    color: #2A2948 !important;
+    padding: 4px 35px !important;
+    border-radius: 8px !important;
+    box-shadow: -5px 5px 25px -5px rgba(0, 0, 0, 0.445);
+}
+
+.warn-me {
+    font-weight: 300;
+    text-align: justify;
+    margin-top: 40px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
