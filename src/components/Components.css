@@ -124,11 +124,12 @@ div {
     padding-right: 0px !important;
 }
 
-.row-tab img {
+.link-tab img {
+    margin-top: 80px;
     margin-right: 20px;
-    filter: drop-shadow(-1px 1px 1px #222222)
+    filter: drop-shadow(-1px 1px 3px #222222)
 }
 
-.row-tab a {
+.link-tab a {
     margin-right: 10px;
 }

@@ -17,7 +17,7 @@ class Gallery extends Component {
                 <div>
                   <Card className='card-view'>
                     <CardImg top width="100%" src={Astro} alt="Card image cap" />
-                      <CardTitle>Card title</CardTitle>
+                      <CardTitle>Muding (Mulai Ngoding)</CardTitle>
                   </Card>
                 </div>
               </Col>
@@ -25,7 +25,7 @@ class Gallery extends Component {
                 <div>
                   <Card className='card-view'>
                     <CardImg top width="100%" src={Astro2} alt="Card image cap" />
-                      <CardTitle>Card title</CardTitle>
+                      <CardTitle>Rentalin (Rental Mobil)</CardTitle>
                   </Card>
                 </div>
               </Col>
@@ -33,7 +33,7 @@ class Gallery extends Component {
                 <div>
                   <Card className='card-view'>
                     <CardImg top width="100%" src={Astro3} alt="Card image cap" />
-                      <CardTitle>Card title</CardTitle>
+                      <CardTitle>Solvee (Jasa Titip)</CardTitle>
                   </Card>
                 </div>
               </Col>
@@ -41,7 +41,7 @@ class Gallery extends Component {
                 <div>
                   <Card className='card-view'>
                     <CardImg top width="100%" src={Astro4} alt="Card image cap" />
-                      <CardTitle>Card title</CardTitle>
+                      <CardTitle>Complete Hacktoberfest2019</CardTitle>
                   </Card>
                 </div>
               </Col>
@@ -49,7 +49,7 @@ class Gallery extends Component {
                 <div>
                   <Card className='card-view'>
                     <CardImg top width="100%" src={Astro5} alt="Card image cap" />
-                      <CardTitle>Card title</CardTitle>
+                      <CardTitle>Pekemas (Pekerja Masyarakat)</CardTitle>
                   </Card>
                 </div>
               </Col>

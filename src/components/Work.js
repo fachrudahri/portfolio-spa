@@ -20,6 +20,12 @@ class Work extends Component {
                 <div className='text-job'>solvee is a local startup that has services such as storing goods from inter-city to abroad at a lower cost, and there is a service request for goods from anywhere.</div>
             </Col>
           </Row>
+          <Row>
+            <Col xs='12' md='10' lg='7' className='row-2'>
+                <div className='title-job'>Software Engineer / Pekemas (2019 - Now)</div>
+                <div className='text-job'>Pekemas adalah suatu platform dimana perusahaan/seseorang yang ingin mendapatkan pekerja melalui web ini yang terhubung dengan orang orang biasa yang memiliki kemampuan dan dapat membantu menyelesaikan pekerjaan yang membutuhkan mereka.</div>
+            </Col>
+          </Row>
         </Container>
       </div>
     );
