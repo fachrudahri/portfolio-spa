@@ -10,20 +10,20 @@ class Work extends Component {
         <Container>
           <Row>
             <Col xs='12' md='10' lg='7' className='row-1'>
-                <div className='title-job'>Front-End Developer / Muding (2018 - 2019)</div>
-                <div className='text-job'>Muding has several services, namely M-course and M-komu. M-course is the first platform for learning and in the form of videos with Indonesian subtitles. M-komu is a platform that provides discussion space that is ready to help in dealing with problems when studying.</div>
+                <div className='title-job'>Deputy Chief / OSSC (2018 - 2019)</div>
+                <div className='text-job'>I became a role that helped the chairman in organizing IT organizations, and contributed to web development.</div>
             </Col>
           </Row>
           <Row>
             <Col xs='12' md='10' lg='7' className='row-2'>
-                <div className='title-job'>Back-End Developer / Solvee (2018 - 2019)</div>
-                <div className='text-job'>solvee is a local startup that has services such as storing goods from inter-city to abroad at a lower cost, and there is a service request for goods from anywhere.</div>
+                <div className='title-job'>web development instructor / OSSC (2018 - 2019)</div>
+                <div className='text-job'>I teach about web development and the latest technology from a website, I am more directed to the javascript programming language for the client side and server side.</div>
             </Col>
           </Row>
           <Row>
             <Col xs='12' md='10' lg='7' className='row-2'>
-                <div className='title-job'>Software Engineer / Pekemas (2019 - Now)</div>
-                <div className='text-job'>Pekemas adalah suatu platform dimana perusahaan/seseorang yang ingin mendapatkan pekerja melalui web ini yang terhubung dengan orang orang biasa yang memiliki kemampuan dan dapat membantu menyelesaikan pekerjaan yang membutuhkan mereka.</div>
+                <div className='title-job'>Backend Engineer / PT INALUM (supporting team) (2019 - Now)</div>
+                <div className='text-job'>I helped develop a backend website for information systems within the agency.</div>
             </Col>
           </Row>
         </Container>
